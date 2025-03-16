@@ -41,10 +41,10 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-300">
-              <li>info@careercompass.example</li>
-              <li>+1 (555) 123-4567</li>
-              <li>123 Career Street, Suite 100</li>
-              <li>San Francisco, CA 94103</li>
+              <li>career@woxsen.example</li>
+              <li>+91 1234567890</li>
+              <li>Woxsen Univeristy</li>
+              <li>Hyderabad, Telangana 502345</li>
             </ul>
           </div>
         </div>
