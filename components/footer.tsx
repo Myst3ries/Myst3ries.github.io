@@ -41,7 +41,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-300">
-              <li>career@woxsen.example</li>
+              <li>info@careercompass.example</li>
               <li>+91 1234567890</li>
               <li>Woxsen Univeristy</li>
               <li>Hyderabad, Telangana 502345</li>
